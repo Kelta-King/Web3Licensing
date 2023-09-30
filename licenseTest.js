@@ -140,7 +140,7 @@ async function checkLicenseValidity(licenseId, walletAddress) {
 }
 
 // Example usage
-const walletAddress = '0xE930dF43e6b89f96D66334c4e24e12E77Ee4ed61'; // Replace with the wallet address you want to associate with the license
+const walletAddress = '##WalletAddress'; // Replace with the wallet address you want to associate with the license
 const licenseId = 3; // Replace with the license ID you want to check
 
 // mintLicense(walletAddress); // Mint a new license
